@@ -4,3 +4,6 @@
 [submodule "Client"]
 	path = Client
 	url = https://github.com/noaether/AdvancementHelper-Client
+[submodule "Database"]
+	path = Database
+	url = https://github.com/noaether/AdvancementHelper-Database
