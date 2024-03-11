@@ -7,3 +7,6 @@
 [submodule "Database"]
 	path = Database
 	url = https://github.com/noaether/AdvancementHelper-Database
+[submodule "Web"]
+	path = Web
+	url = https://github.com/noaether/AdvancementHelper-Web
