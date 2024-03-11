@@ -1,3 +1,6 @@
 [submodule "Server"]
 	path = Server
 	url = https://github.com/noaether/AdvancementHelper-Server
+[submodule "Client"]
+	path = Client
+	url = https://github.com/noaether/AdvancementHelper-Client
