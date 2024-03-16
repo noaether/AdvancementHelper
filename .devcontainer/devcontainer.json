@@ -13,7 +13,16 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "noaether/*": {
+        "noaether/AdvancementHelper-Server": {
+          "permissions": "write-all"
+        },
+        "noaether/AdvancementHelper-Web": {
+          "permissions": "write-all"
+        },
+        "noaether/AdvancementHelper-Database": {
+          "permissions": "write-all"
+        },
+        "noaether/AdvancementHelper-Client": {
           "permissions": "write-all"
         }
       }
