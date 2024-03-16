@@ -14,9 +14,7 @@
     "codespaces": {
       "repositories": {
         "noaether/*": {
-          "permissions": {
-            "permissions": "write-all"
-          }
+          "permissions": "write-all"
         }
       }
     }
