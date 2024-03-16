@@ -9,5 +9,16 @@
       "installMaven": "true",
       "mavenVersion": "latest"
     }
+  },
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "noaether/*": {
+          "permissions": {
+            "permissions": "write-all"
+          }
+        }
+      }
+    }
   }
 }
